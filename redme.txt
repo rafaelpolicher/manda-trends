@@ -1,0 +1,7 @@
+O projeto foi feito utilizando bootstrap para otimizar o tempo, utilizando o minimo possível de linhas de css, porem tambem poderia ser feito com css puro.
+
+Imaginando que a imagem de referencia está para telas de computador, onde há duas colunas com notícias, tornei o projeto responsivo para mostrar apenas uma coluna em telas menores
+
+Copiei as matérias, porem tendo ciencia de que o ideal seria resgatar as informaçoes(imagem, titulo, subtitulo e fonte) do banco de dados com um link para a matéria.
+
+Rafael Policher.
